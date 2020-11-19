@@ -10,7 +10,7 @@ https://www.kaggle.com/amritvirsinghx/environmental-news-nlp-dataset
 
 Free Text Query
 
-<img align="left" alt="image" src="https://github.com/kavya76/Search-Engine/blob/main/Snapshots/Types%20of%20queries?raw=true" width="300" height="220" />
+<img align="left" alt="image" src="https://github.com/kavya76/Search-Engine/blob/main/Snapshots/Types%20of%20queries" width="300" height="220" />
 
 
 Phrase Query
