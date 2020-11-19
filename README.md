@@ -7,9 +7,13 @@ Environmental News NLP Archive and perform the comparison of metrics with availa
 ## Usage
 
 To run the search engine, Upload the ipynb in colab and upload the database onto the drive. 
+
  if in " ": phrase query
+  
  if /k present: proximity query
+  
  if "*" present: wildcard query
+ 
  if free text: (OR) of all the terms
 
 Enter the query: usa elections
