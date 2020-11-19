@@ -8,10 +8,8 @@ https://www.kaggle.com/amritvirsinghx/environmental-news-nlp-dataset
 
 ## Type of Queries:
 
-Free Text Query
-
-<img align="left" alt="image" src="https://github.com/kavya76/Search-Engine/blob/main/Snapshots/free_text.PNG" width="700" height="300" />
-
+### Free Text Query
+![](https://github.com/kavya76/Search-Engine/blob/main/Snapshots/free_text.PNG)
 
 Phrase Query
 
