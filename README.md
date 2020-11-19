@@ -17,6 +17,7 @@ To run the search engine, Upload the ipynb in colab and upload the database onto
  if free text: (OR) of all the terms
 
 Enter the query: usa elections
+
 Query Type
 Query Type: Free Text Query
 ['usa', 'elections']
