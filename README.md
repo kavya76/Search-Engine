@@ -10,7 +10,8 @@ https://www.kaggle.com/amritvirsinghx/environmental-news-nlp-dataset
 
 Free Text Query
 
-<img align="left" alt="image" src="https://github.com/kavya76/Search-Engine/blob/main/Snapshots/free_text.PNG" width="300" height="220" />
+<img align="left" alt="image" src="https://github.com/kavya76/Search-Engine/blob/main/Snapshots/free_text.PNG" width="700" height="300" />
+
 
 Phrase Query
 
@@ -21,9 +22,6 @@ Wild card Query
 ## Additional functionality
 
 Word Error Correction 
-
-
-<img align="left" alt="image" src="https://github.com/kavya76/Search-Engine/blob/main/Snapshots/spell_check.PNG" width="300" height="220" />
 
 ## Usage:
 
