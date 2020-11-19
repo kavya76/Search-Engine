@@ -1,6 +1,6 @@
 
 # Search Engine
-Building a search engine for Environmental News NLP Archive and perform the comparison of metrics with available search engines.
+A search engine for Environmental News NLP Archive and the comparison of metrics with available search engines.
 
 ## Dataset
 
