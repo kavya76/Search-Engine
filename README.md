@@ -6,30 +6,37 @@ Building a search engine for Environmental News NLP Archive and perform the comp
 
 https://www.kaggle.com/amritvirsinghx/environmental-news-nlp-dataset
 
-## Type of Queries:
+## Type of Queries
 
 ### Free Text Query
 ![](https://github.com/kavya76/Search-Engine/blob/main/Snapshots/free_text.PNG)
 
-Phrase Query
+### Phrase Query
 
-Proximity Query
+if query in " "
+![](https://github.com/kavya76/Search-Engine/blob/main/Snapshots/phrase.PNG)
 
-Wild card Query
+### Proximity Query
+
+if /k in query
+![](https://github.com/kavya76/Search-Engine/blob/main/Snapshots/proximity.PNG)
+
+### Wild card Query
+
+if "*" in query
+![](https://github.com/kavya76/Search-Engine/blob/main/Snapshots/wild_card.PNG)
 
 ## Additional functionality
 
-Word Error Correction 
+### Word Error Correction 
+![](https://github.com/kavya76/Search-Engine/blob/main/Snapshots/spell_check.PNG)
 
 ## Usage:
 
-To run the search engine, Upload the ipynb in colab and upload the database onto the drive. 
+To run the search engine, Upload the ipynb in colab and upload the data onto the drive. 
 
- if in " ": phrase query
-  
- if /k present: proximity query
-  
- if "*" present: wildcard query
- 
- if free text: (OR) of all the terms
+## Comparison
+![](https://github.com/kavya76/Search-Engine/blob/main/Snapshots/comparison.PNG)
+
+
 
